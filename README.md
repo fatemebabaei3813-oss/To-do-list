@@ -1,4 +1,4 @@
-# Todo-list
+# To-do-list
 
 A simple and functional To-Do List web application built as a Front-End practice project.
 
